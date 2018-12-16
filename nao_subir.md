@@ -1,1 +1,0 @@
-Um arquivo que não é para subir.
