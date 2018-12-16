@@ -4,6 +4,4 @@ This is a simple readme file.
 
 ## Modifications
 
-### Novas modificações
-
-### Modificações numa branch
+### Atualizei na master mas nao vai pra stage
