@@ -1,9 +1,5 @@
 # Demo Project
 
-This is a simple readme file.
+This is a simples readme file.
 
 ## Modifications
-
-
-## Update na master
-## Atualização na branch
